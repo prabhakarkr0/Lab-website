@@ -1,0 +1,29 @@
+<section class="section fade-in">
+  <h2>Research Interests</h2>
+
+  <div class="card-grid">
+    <div class="card">
+      <h3>Hormone Biology</h3>
+      <p>
+        Genetic and cellular regulation of auxin and cytokinin signaling during
+        plant development and regeneration.
+      </p>
+    </div>
+
+    <div class="card">
+      <h3>Plant Development</h3>
+      <p>
+        Understanding stem cell maintenance, meristem function, and tissue
+        patterning using genetic and imaging approaches.
+      </p>
+    </div>
+
+    <div class="card">
+      <h3>Functional Genomics</h3>
+      <p>
+        Identification and characterization of genes controlling growth,
+        architecture, and environmental responses in plants.
+      </p>
+    </div>
+  </div>
+</section>
