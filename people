@@ -1,0 +1,14 @@
+<section class="section fade-in">
+  <h2>Principal Investigator</h2>
+
+  <div class="profile">
+    <img src="assets/images/pi.jpg" alt="PI photo">
+    <div>
+      <h3>Dr. Ram Kishor Yadav</h3>
+      <p><strong>Associate Professor</strong></p>
+      <p>
+        Department of Biological Sciences, IISER Mohali
+      </p>
+    </div>
+  </div>
+</section>
