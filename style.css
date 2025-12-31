@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  color: #1F2937;
+}
+
+.hero {
+  height: 90vh;
+  background: linear-gradient(
+    rgba(0,0,0,0.45),
+    rgba(0,0,0,0.45)
+  ), url("../images/lab.jpg") center/cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hero-content {
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Playfair Display', serif;
+  font-size: 3.5rem;
+}
+
+.section {
+  padding: 80px 15%;
+}
+
+.fade-in {
+  opacity: 0;
+  transform: translateY(40px);
+  transition: all 0.8s ease;
+}
+
+.fade-in.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
